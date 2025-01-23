@@ -26,6 +26,12 @@ pnpm dlx create --from .
 
 or you can go into the dist folder run the above command
 
+You may need to add a Github token to `.env` or you can try offline more
+
+```
+pnpm dlx create --from . --offline
+```
+
 The output is the following and the preset doesn't run
 
 ```
