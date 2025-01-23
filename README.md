@@ -41,7 +41,3 @@ The output is the following and the preset doesn't run
 │
 └  Cheers! 💝
 ```
-
-```
-
-```
